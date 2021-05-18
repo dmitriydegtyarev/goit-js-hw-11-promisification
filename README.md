@@ -1,4 +1,6 @@
-goit-js-hw-11-color-switch The eleventh homework on JS
+goit-js-hw-11-promisification
+
+The eleventh homework on JS
 
 ## Задание 1
 

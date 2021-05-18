@@ -1,7 +1,12 @@
 import '../css/styles.css';
 
 const delay = ms => {
-  // Твой код
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve();
+      reject();
+    }, ms);
+  })
 };
 
 const logger = time => console.log(`Resolved after ${time}ms`);
