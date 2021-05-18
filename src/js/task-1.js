@@ -1,10 +1,9 @@
 import '../css/styles.css';
 
 const delay = ms => {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     setTimeout(() => {
-      resolve();
-      reject();
+      resolve(ms);
     }, ms);
   })
 };
