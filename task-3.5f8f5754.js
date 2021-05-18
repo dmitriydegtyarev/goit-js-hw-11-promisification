@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"LiEu":[function(require,module,exports) {
 "use strict";require("../css/styles.css");
 },{"../css/styles.css":"krre"}]},{},["LiEu"], null)
-//# sourceMappingURL=/goit-js-hw-11-promisification/task-3.65cfe502.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/task-3.5f8f5754.js.map
